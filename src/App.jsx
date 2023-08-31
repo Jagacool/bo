@@ -98,7 +98,7 @@ return(
         </div>
 
         <div className="col-md-8 mt-3 text-center">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti modi beatae hic reprehenderit tenetur alias perferendis, quidem perspiciatis atque sed, distinctio eaque praesentium! Error aspernatur porro perspiciatis dolores vitae!</p>
+          <p>The company itself is a very successful company. Here he criticizes the corrupt ways of the blessed, he is obliged to bear other things, indeed they are seen, and yet, the distinction between them and those present! The error is asperated by further insight into the pains of life!</p>
         </div>
 
 
@@ -107,7 +107,7 @@ return(
       </div>
 
       <div className="d-flex justify-content-between py-4 my-4 border-top">
-        <p>© 2021 Company, Inc. All rights reserved.</p>
+        <p>© 2023 Company, Inc. All rights reserved.</p>
         <ul className="list-unstyled d-flex">
           <li className="ms-3"><a className="link-light" href="#"><i className="fa-brands fa-twitter"></i></a></li>
           <li className="ms-3"><a className="link-light" href="#"><i className="fa-brands fa-facebook"></i></a></li>
